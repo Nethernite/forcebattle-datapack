@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "gravestones:gravestone": 2,
+      "minecraft:arrow": 2
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 149763,
+      "minecraft:walk_one_cm": 1021,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 1,
+      "minecraft:play_time": 149763,
+      "minecraft:damage_dealt": 48,
+      "minecraft:open_shulker_box": 19,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 149763,
+      "minecraft:drop": 2,
+      "minecraft:open_chest": 1,
+      "minecraft:total_world_time": 176265,
+      "minecraft:fly_one_cm": 3139,
+      "minecraft:sneak_time": 38
+    },
+    "minecraft:used": {
+      "minecraft:chest": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:arrow": 2
+    }
+  },
+  "DataVersion": 4903
+}

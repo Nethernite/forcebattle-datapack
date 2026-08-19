@@ -1,0 +1,1 @@
+$data modify storage force_battle:force_item.temp item set from storage force_battle:force_item $(index).current_item

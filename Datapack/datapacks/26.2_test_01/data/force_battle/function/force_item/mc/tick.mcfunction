@@ -1,0 +1,1 @@
+#execute as @a run function force_battle:force_item/check_for_item/trigger
