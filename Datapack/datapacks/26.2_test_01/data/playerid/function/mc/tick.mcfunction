@@ -1,1 +1,0 @@
-execute if entity @a[scores={get_id=0..}] as @a[scores={get_id=0..}] run function playerid:get_id/trigger
