@@ -1,1 +1,0 @@
-$tellraw @a[tag=triggered_get_id] [{text:"   "},{selector:"@a[scores={playerid=$(index)},limit=1]",color:light_purple},{text:" - ",color:white},{text:"$(index)",color:gold,hover_event:{action:show_text,value:{text:"PlayerID",color:"gray"}}},{text:"\n"}]
